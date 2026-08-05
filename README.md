@@ -151,10 +151,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclayson0
 
 - Desenvolver projetos completos com React e Next.js
 - Aprender Node.js e APIs REST
-- Construir aplicações Full Stack
+- Construir aplicações como Dev Full Stack
 - Criar soluções de automação com Python
 - Expandir meu portfólio no GitHub
-- Conseguir minha primeira oportunidade como Desenvolvedor Full Stack
 
 ---
 
