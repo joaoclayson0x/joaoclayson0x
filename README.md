@@ -1,232 +1,167 @@
-<div align="center">
+# 👋 Olá! Eu sou João Vitor
 
-# 👨🏻‍💻 João Vitor
+## 👨🏻‍💻 Desenvolvedor Full Stack em formação
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Front-end+%E2%86%92+Full+Stack;React+%7C+TypeScript+%7C+Node.js;Construindo+experi%C3%AAncias+digitais."
-  alt="Typing SVG"
-/>
+Tenho **18 anos** e estou iniciando minha carreira na área de Tecnologia da Informação, com foco em desenvolvimento de software.
 
-<br>
+Sou apaixonado por tecnologia e por criar soluções que resolvem problemas reais. Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas para Web, sempre buscando evoluir minhas habilidades através da prática.
 
-**Construindo interfaces, aplicações e soluções digitais através de código.**
+Meu objetivo é construir uma carreira sólida como **Desenvolvedor Full Stack**, desenvolvendo aplicações modernas, responsivas e de alta qualidade.
 
-<br>
+### 🚀 Atualmente estudando
 
+- ⚛️ React
+- 🔷 TypeScript
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🐍 Python
+- 🤖 Automação e Bots
+- 🌐 HTML • CSS • JavaScript
+
+---
+
+## 📫 Contato
+
+<p align="left">
 <a href="https://github.com/joaoclayson0x">
-  <img src="https://img.shields.io/badge/GitHub-joaoclayson0x-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/joaoclayson0x">
-  <img src="https://img.shields.io/badge/Instagram-@joaoclayson0x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto:joaoclayson0x@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## `> whoami`
-
-```ts
-const joaoVitor = {
-  role: "Desenvolvedor em formação",
-  currentFocus: ["React", "TypeScript", "Node.js"],
-  interests: [
-    "Desenvolvimento Web",
-    "Automação",
-    "Interfaces",
-    "Tecnologia"
-  ],
-  goal: "Full Stack Developer",
-  status: "Building..."
-};
-```
-
-Sou **João Vitor**, estudante e desenvolvedor em formação, focado na construção de aplicações web e soluções digitais.
-
-Minha evolução na tecnologia acontece principalmente através da **prática**: transformando ideias em projetos, experimentando tecnologias e buscando entender não apenas como desenvolver, mas como construir soluções melhores.
-
-Atualmente concentro meus estudos em **desenvolvimento web**, principalmente com **React, TypeScript e JavaScript**, enquanto avanço meus conhecimentos em **Node.js, Python, APIs e automação**.
-
-> **Objetivo:** evoluir continuamente até atuar profissionalmente como Desenvolvedor Full Stack.
-
----
-
-# ⚡ Tech Stack
-
-### `01 / Front-end`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-</p>
-
-### `02 / Back-end & Automação`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
-</p>
-
-### `03 / Ferramentas`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 </p>
 
 ---
 
-# 🚀 Projetos em destaque
+## 📈 GitHub
 
-## `01` — Portfólio João Vitor
+<p align="left">
+<a href="https://github.com/joaoclayson0x?tab=followers">
+<img
+alt="Seguidores"
+title="Me siga no GitHub"
+src="https://custom-icon-badges.demolab.com/github/followers/joaoclayson0x?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
 
-> **Identidade digital & Desenvolvimento Front-end**
+<a href="https://github.com/joaoclayson0x?tab=repositories&sort=stargazers">
+<img
+alt="Stars"
+title="Total de estrelas"
+src="https://custom-icon-badges.demolab.com/github/stars/joaoclayson0x?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
-Meu principal espaço digital para apresentar minha trajetória, experiências, tecnologias e projetos.
-
-`React` · `TypeScript` · `Tailwind CSS`
-
-**Status:** 🟡 Em desenvolvimento
-
----
-
-## `02` — CompletCare
-
-> **Website institucional**
-
-Projeto web desenvolvido com foco em apresentação de serviços, experiência do usuário, responsividade e identidade visual.
-
-`HTML` · `CSS` · `JavaScript`
-
-**Status:** 🟡 Em desenvolvimento / publicação
+</p>
 
 ---
 
-## `03` — Cartão Cuidado Mais Brasil
+# 💻 Tecnologias
 
-> **Interface & experiência digital**
-
-Interface desenvolvida para apresentação de uma plataforma de benefícios, seus serviços e planos.
-
-`React` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-
-**Status:** 🟡 Em desenvolvimento / publicação
-
----
-
-# 🧪 Digital Lab
-
-Meu GitHub também funciona como um laboratório para explorar novas ideias e tecnologias.
-
-```txt
-→ Interfaces
-→ Landing Pages
-→ Motion para Web
-→ React Components
-→ Python
-→ Bots
-→ Automações
-→ Integrações
-→ Experimentos
-```
-
-Alguns repositórios representam produtos completos. Outros documentam meu processo de aprendizado e experimentação.
-
----
-
-# 🎯 Current Focus
-
-```txt
-[01] ██████████  React + TypeScript
-[02] ███████░░░  Node.js & APIs
-[03] ███████░░░  Desenvolvimento Full Stack
-[04] ██████░░░░  Python & Automação
-[05] █████████░  Projetos & Portfólio
-```
-
-> Os indicadores acima representam áreas de foco, não níveis de domínio.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
+<p align="left">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=joaoclayson0x&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-/>
+align="left"
+alt="HTML"
+title="HTML"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclayson0x&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-/>
+align="left"
+alt="CSS"
+title="CSS"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-</div>
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img
+align="left"
+alt="TypeScript"
+title="TypeScript"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+
+<img
+align="left"
+alt="React"
+title="React"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img
+align="left"
+alt="Next.js"
+title="Next.js"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+
+<img
+align="left"
+alt="Tailwind"
+title="Tailwind CSS"
+width="35px"
+src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+
+<img
+align="left"
+alt="NodeJS"
+title="Node.js"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img
+align="left"
+alt="Python"
+title="Python"
+width="35px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+</p>
 
 <br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=joaoclayson0x&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 🐍 Contributions
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake animation"
-/>
-
-</div>
-
----
-
-# 🧭 Roadmap
-
-```txt
-NOW
- │
- ├── React + TypeScript
- │
- ├── Projetos Web
- │
- ├── Node.js + APIs
- │
- ├── Python + Automação
- │
- ▼
-FULL STACK DEVELOPER
-```
-
----
-
-# 📡 Connect
-
-<div align="center">
-
-**Tem um projeto, oportunidade ou simplesmente quer trocar uma ideia?**
-
 <br>
 
-<a href="https://github.com/joaoclayson0x">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="https://instagram.com/joaoclayson0x">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+# 📊 Estatísticas
 
-<br><br>
+<p align="center">
 
-### `> Building. Learning. Improving.`
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=joaoclayson0x&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br"/>
 
-<sub>© 2026 João Vitor</sub>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclayson0x&layout=compact&theme=algolia&langs_count=8"/>
 
-</div>
+</p>
+
+---
+
+## 📌 Objetivos para 2026
+
+- Desenvolver projetos completos com React e Next.js
+- Aprender Node.js e APIs REST
+- Construir aplicações Full Stack
+- Criar soluções de automação com Python
+- Expandir meu portfólio no GitHub
+- Conseguir minha primeira oportunidade como Desenvolvedor Full Stack
+
+---
+
+<p align="center">
+
+> *"Cada projeto é um passo a mais na construção da minha carreira."*
+
+⭐ Obrigado por visitar meu perfil!
+
+</p>
