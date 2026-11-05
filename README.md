@@ -1,105 +1,85 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:172554,100:4338CA&text=Jo%C3%A3o%20Vitor&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner de João Vitor"/>
+<div align="left">
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Desenvolvendo+ideias+com+c%C3%B3digo;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Next.js+%7C+Vercel;Sempre+aprendendo%2C+sempre+evoluindo." alt="Animação de digitação com minhas especialidades"/> </a>
+<sub>DESENVOLVIMENTO WEB / DESIGN / TECNOLOGIA</sub>
 
-<br/>
+# João Vitor.
 
-<a href="https://github.com/joaoclayson0x"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:joaoclayson0x@gmail.com"> <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/> </a> <a href="https://vercel.com/"> <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> </a>
+### Desenvolvedor Front-end
 
-<img src="https://komarev.com/ghpvc/?username=joaoclayson0x&style=flat-square&color=2563eb&label=VISITAS+AO+PERFIL" alt="Contador de visitas ao perfil"/>
+Criando experiências digitais modernas, combinando
+tecnologia, criatividade e boas práticas de desenvolvimento.
 
-</div>
+[Portfólio](https://joaoclayson0x.dev)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[GitHub](https://github.com/joaoclayson0x)
 
-👨‍💻 Sobre mim
+---
 
-Olá! Eu sou João Vitor, tenho 18 anos e estou construindo minha jornada na área de Tecnologia da Informação.
+### 01 / Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento web e pela possibilidade de transformar ideias em soluções digitais. Atualmente, estou aprimorando minhas habilidades por meio de estudos, experimentação e desenvolvimento de projetos.
+Sou João Vitor, desenvolvedor front-end, apaixonado por
+tecnologia, design e desenvolvimento de soluções digitais.
 
-🚀 Foco atual: desenvolvimento web e aplicações modernas.
-⚛️ Frontend: HTML, CSS, JavaScript e React.
-▲ Explorando: Next.js, TypeScript e Tailwind CSS.
-🧩 Expandindo conhecimentos: Node.js, Python, automação e APIs.
-🎯 Objetivo: conquistar minha primeira oportunidade na área e evoluir como desenvolvedor Full Stack.
-📚 Mentalidade: aprender continuamente e colocar o conhecimento em prática.
-💡 Acredito que consistência, curiosidade e prática são essenciais para evoluir como desenvolvedor.
-🛠️ Tecnologias e ferramentas
+Transformo ideias em experiências digitais modernas,
+criando interfaces intuitivas, responsivas e funcionais.
 
-<div align="center">
+Atualmente, estou aprimorando minhas habilidades em
+lógica de programação, automação e back-end,
+construindo meu caminho rumo ao desenvolvimento full-stack.
 
-Frontend
+---
 
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a> <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js"/></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></a>
+### 02 / Tecnologias e ferramentas
 
-Backend e programação
+**Desenvolvimento Front-end**
 
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Tecnologias front-end" />
 
-Ferramentas e deploy
+**Programação e automação**
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a> <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code"/></a>
+<img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js" />
 
-</div>
+**Ferramentas e deploy**
 
-📊 Estatísticas do GitHub
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Ferramentas" />
 
-<div align="center">
+---
 
-<a href="https://github.com/joaoclayson0x"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaoclayson0x&showicons=true&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&iconcolor=58A6FF&textcolor=C9D1D9&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de João Vitor"/> </a>
+### 03 / O que estou construindo
 
-<a href="https://github.com/joaoclayson0x"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclayson0x&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=58A6FF&textcolor=C9D1D9&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas"/> </a>
+**Portfólio pessoal**
 
-<br/>
+Uma experiência digital desenvolvida para apresentar
+meus conhecimentos, projetos e identidade profissional.
 
-<a href="https://github.com/joaoclayson0x"> <img width="95%" src="https://streak-stats.demolab.com?user=joaoclayson0x&theme=github-dark-blue&hideborder=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&locale=ptBR" alt="Sequência de contribuições no GitHub"/> </a>
+[Explorar portfólio](https://joao-vitor-foldcraft.wiry-tuna-7965.chatgpt.site/)
 
-</div>
+**Interfaces e projetos demonstrativos**
 
-🚀 Projetos em destaque
+Experimentos de desenvolvimento front-end, componentes
+interativos e aplicações responsivas.
 
-Aqui ficarão os projetos que melhor representam minha evolução como desenvolvedor.
+**Automações e aplicações**
 
-<div align="center">
+Projetos de aprendizado envolvendo Python,
+lógica de programação e bancos de dados.
 
-<a href="https://github.com/joaoclayson0x?tab=repositories"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoclayson0x&repo=SEU-REPOSITORIO-1&theme=githubdark&hideborder=true" alt="Projeto em destaque 1"/> </a> <a href="https://github.com/joaoclayson0x?tab=repositories"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoclayson0x&repo=SEU-REPOSITORIO-2&theme=githubdark&hideborder=true" alt="Projeto em destaque 2"/> </a>
+---
 
-</div>
+### 04 / Contato
 
-O que você encontrará por aqui:
+Aberto a conexões profissionais, colaboração em projetos
+e oportunidades de desenvolvimento.
 
-🌐 Aplicações e interfaces web responsivas.
-⚛️ Projetos com React e Next.js.
-🧩 Experimentos para aprender novas tecnologias.
-💡 Soluções desenvolvidas para praticar lógica e resolver problemas.
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[Instagram](https://www.instagram.com/joaoclayson0x/)
 
-🔎 Explorar todos os meus repositórios
+---
 
-🎯 Objetivos para 2026
-Desenvolver aplicações completas com React e Next.js.
-Aprofundar meus conhecimentos em TypeScript.
-Aprender a construir APIs com Node.js.
-Desenvolver aplicações Full Stack.
-Criar projetos de automação com Python.
-Publicar projetos e demonstrações utilizando a Vercel.
-Fortalecer meu portfólio e conquistar minha primeira oportunidade na área de tecnologia.
-📫 Vamos nos conectar?
-
-Estou sempre aberto a aprender, compartilhar conhecimento e conhecer pessoas da comunidade de tecnologia.
-
-<div align="center">
-
-<a href="https://github.com/joaoclayson0x"> <img src="https://img.shields.io/badge/GitHub-joaoclayson0x-181717?style=for-the-badge&logo=github" alt="Meu GitHub"/> </a> <a href="mailto:joaoclayson0x@gmail.com"> <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Entre em contato por e-mail"/> </a>
-
-<br/><br/>
-
-⭐ Se algum projeto meu ajudar você, considere deixar uma estrela!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:172554,100:0D1117&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
-
-“Grandes resultados são construídos com pequenos passos, todos os dias.”
+<sub>Nem toda evolução se torna um commit.</sub>
 
 </div>
