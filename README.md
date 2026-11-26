@@ -1,85 +1,136 @@
+<a href="https://joaoclayson0x.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/main/assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/main/assets/banner-light.svg" />
+    <img alt="João Vitor — desenvolvedor front-end" src="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/main/assets/banner-dark.svg" width="100%" />
+  </picture>
+</a>
 
-<div align="left">
+<p align="center">
+  <a href="https://joaoclayson0x.dev"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-joaoclayson0x.dev-0A9DEB?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Vitor-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joaoclayson0x/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@joaoclayson0x-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@joaoclayson0x"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@joaoclayson0x-000000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-<sub>DESENVOLVIMENTO WEB / DESIGN / TECNOLOGIA</sub>
+<br />
 
-# João Vitor.
+## `01` / Sobre
 
-### Desenvolvedor Front-end
+Desenvolvedor front-end que transforma ideia em interface: **responsiva, acessível e com cuidado no detalhe**.
+Gosto de onde design e engenharia se encontram — tipografia, movimento e código limpo no mesmo lugar.
 
-Criando experiências digitais modernas, combinando
-tecnologia, criatividade e boas práticas de desenvolvimento.
+Hoje construo sites institucionais e projetos demonstrativos com React e Next.js, e estou expandindo para
+back-end, automação e dados no caminho para o **full stack**.
 
-[Portfólio](https://joaoclayson0x.dev)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[GitHub](https://github.com/joaoclayson0x)
+```ts
+const joao = {
+  role: "Desenvolvedor Front-end → Full Stack",
+  studying: "Análise e Desenvolvimento de Sistemas",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  exploring: ["Back-end", "Automação com Python", "Cibersegurança", "Dados"],
+  shipsTo: "Vercel",
+  motto: "Nem toda evolução se torna um commit.",
+};
+```
 
----
+<br />
 
-### 01 / Sobre mim
+## `02` / Stack
 
-Sou João Vitor, desenvolvedor front-end, apaixonado por
-tecnologia, design e desenvolvimento de soluções digitais.
+<table>
+  <tr>
+    <td width="150"><sub><b>FRONT-END</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite e Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>LÓGICA & AUTOMAÇÃO</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark" alt="Python e Node.js" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>DESIGN</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>FERRAMENTAS & DEPLOY</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code e Vercel" /></td>
+  </tr>
+</table>
 
-Transformo ideias em experiências digitais modernas,
-criando interfaces intuitivas, responsivas e funcionais.
+<br />
 
-Atualmente, estou aprimorando minhas habilidades em
-lógica de programação, automação e back-end,
-construindo meu caminho rumo ao desenvolvimento full-stack.
+## `03` / Projetos em destaque
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cartaocuidado.com.br/"><img src="./assets/projects/cartao-cuidado-mais-brasil.webp" alt="Cartão Cuidado Mais Brasil" /></a>
+      <p><sub>PROJETO REAL · SITE INSTITUCIONAL</sub><br /><b>Cartão Cuidado Mais Brasil</b></p>
+      <p>Benefícios e planos organizados para o visitante entender a proposta e chegar ao atendimento.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SEO</code></p>
+      <a href="https://cartaocuidado.com.br/"><b>Ver site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://projeto-3-weld.vercel.app/"><img src="./assets/projects/velorah.webp" alt="Velorah" /></a>
+      <p><sub>DEMONSTRATIVO · EXPERIÊNCIA DIGITAL</sub><br /><b>Velorah</b></p>
+      <p>Hero cinematográfico com vídeo em tela cheia, efeito <i>liquid glass</i> e tipografia editorial.</p>
+      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></p>
+      <a href="https://projeto-3-weld.vercel.app/"><b>Ver site →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://projeto-1-zeta-one.vercel.app/"><img src="./assets/projects/prosthetics.webp" alt="Prosthetics Concept" /></a>
+      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Prosthetics Concept</b></p>
+      <p>Landing page conceitual sobre próteses, explorando apresentação de produto e composição.</p>
+      <p><code>React</code> <code>Vite</code> <code>TypeScript</code></p>
+      <a href="https://projeto-1-zeta-one.vercel.app/"><b>Ver site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://projeto-2-eta-seven.vercel.app/"><img src="./assets/projects/viktor.webp" alt="Creative Portfolio" /></a>
+      <p><sub>DEMONSTRATIVO · PORTFÓLIO EXPERIMENTAL</sub><br /><b>Creative Portfolio</b></p>
+      <p>Portfólio com foco em imagem, expressão visual e navegação com movimento.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>CSS Animations</code></p>
+      <a href="https://projeto-2-eta-seven.vercel.app/"><b>Ver site →</b></a>
+    </td>
+  </tr>
+</table>
 
-### 02 / Tecnologias e ferramentas
+<p align="center">
+  <sub>Os repositórios dos projetos são privados — todos estão publicados e podem ser vistos ao vivo.</sub><br />
+  <a href="https://joaoclayson0x.dev"><b>Ver todos os projetos no portfólio →</b></a>
+</p>
 
-**Desenvolvimento Front-end**
+<br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Tecnologias front-end" />
+## `04` / Trilha
 
-**Programação e automação**
+| | Formação | Foco |
+|:-:|---|---|
+| 🔵 | **Análise e Desenvolvimento de Sistemas** · <sub>ATUAL</sub> | Programação, banco de dados e soluções digitais |
+| ⚪ | **Ciência da Computação** · <sub>PRÓXIMA</sub> | Algoritmos, estruturas de dados e fundamentos |
+| ⚪ | **Ciência de Dados** · <sub>PLANEJADO</sub> | Análise e modelos aplicados a problemas reais |
+| ⚪ | **Engenharia de Software** · <sub>PLANEJADO</sub> | Arquitetura, qualidade e sistemas em escala |
 
-<img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js" />
+<br />
 
-**Ferramentas e deploy**
+## `05` / Atividade
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Ferramentas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/output/github-snake.svg" />
+  <img alt="Gráfico de contribuições sendo percorrido por uma cobrinha" src="https://raw.githubusercontent.com/joaoclayson0x/joaoclayson0x/output/github-snake-dark.svg" width="100%" />
+</picture>
 
----
+<br />
 
-### 03 / O que estou construindo
+## `06` / Contato
 
-**Portfólio pessoal**
+Aberto a conexões, colaborações e oportunidades em desenvolvimento web.
+O melhor caminho é pelo [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407) ou pelo [portfólio](https://joaoclayson0x.dev).
 
-Uma experiência digital desenvolvida para apresentar
-meus conhecimentos, projetos e identidade profissional.
+<br />
 
-[Explorar portfólio](https://joao-vitor-foldcraft.wiry-tuna-7965.chatgpt.site/)
-
-**Interfaces e projetos demonstrativos**
-
-Experimentos de desenvolvimento front-end, componentes
-interativos e aplicações responsivas.
-
-**Automações e aplicações**
-
-Projetos de aprendizado envolvendo Python,
-lógica de programação e bancos de dados.
-
----
-
-### 04 / Contato
-
-Aberto a conexões profissionais, colaboração em projetos
-e oportunidades de desenvolvimento.
-
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-827058407)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[Instagram](https://www.instagram.com/joaoclayson0x/)
-
----
-
-<sub>Nem toda evolução se torna um commit.</sub>
-
-</div>
+<p align="center">
+  <sub><code>Nem toda evolução se torna um commit.</code></sub>
+</p>
