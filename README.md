@@ -71,34 +71,62 @@ const joao = {
       <a href="https://cartaocuidado.com.br/"><b>Ver site →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://projeto-3-weld.vercel.app/"><img src="./assets/projects/velorah.webp" alt="Velorah" /></a>
-      <p><sub>DEMONSTRATIVO · EXPERIÊNCIA DIGITAL</sub><br /><b>Velorah</b></p>
-      <p>Hero cinematográfico com vídeo em tela cheia, efeito <i>liquid glass</i> e tipografia editorial.</p>
-      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></p>
-      <a href="https://projeto-3-weld.vercel.app/"><b>Ver site →</b></a>
+      <a href="https://projeto-4-eight-black.vercel.app/"><img src="./assets/projects/securify.webp" alt="Plataforma de Segurança de Dados" /></a>
+      <p><sub>DEMONSTRATIVO · CONCEITO SAAS</sub><br /><b>Plataforma de Segurança de Dados</b></p>
+      <p>Interface para proteção de dados com tipografia ampla, vídeo em tela cheia e direção visual própria.</p>
+      <p><code>React</code> <code>Vite</code> <code>TypeScript</code></p>
+      <a href="https://projeto-4-eight-black.vercel.app/"><b>Ver site →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://projeto-1-zeta-one.vercel.app/"><img src="./assets/projects/prosthetics.webp" alt="Prosthetics Concept" /></a>
-      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Prosthetics Concept</b></p>
+      <a href="https://projeto-5-lovat.vercel.app/"><img src="./assets/projects/landing-vpn.webp" alt="Landing Page de VPN" /></a>
+      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Landing Page de VPN</b></p>
+      <p>Apresentação de produto focada em privacidade digital, com card de vidro líquido e animações.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Motion</code></p>
+      <a href="https://projeto-5-lovat.vercel.app/"><b>Ver site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://projeto-6-five.vercel.app/"><img src="./assets/projects/automacao-empresarial.webp" alt="Site de Automação Empresarial" /></a>
+      <p><sub>DEMONSTRATIVO · AUTOMAÇÃO EMPRESARIAL</sub><br /><b>Site de Automação Empresarial</b></p>
+      <p>Conceito de site para automação de rotinas, com vídeo de fundo e transição em parallax.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Motion</code></p>
+      <a href="https://projeto-6-five.vercel.app/"><b>Ver site →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://projeto-3-weld.vercel.app/"><img src="./assets/projects/velorah.webp" alt="Experiência Visual de Marca" /></a>
+      <p><sub>DEMONSTRATIVO · EXPERIÊNCIA DIGITAL</sub><br /><b>Experiência Visual de Marca</b></p>
+      <p>Hero cinematográfico com vídeo em tela cheia, efeito <i>liquid glass</i> e tipografia editorial.</p>
+      <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></p>
+      <a href="https://projeto-3-weld.vercel.app/"><b>Ver site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://projeto-1-zeta-one.vercel.app/"><img src="./assets/projects/prosthetics.webp" alt="Landing Page de Próteses" /></a>
+      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Landing Page de Próteses</b></p>
       <p>Landing page conceitual sobre próteses, explorando apresentação de produto e composição.</p>
       <p><code>React</code> <code>Vite</code> <code>TypeScript</code></p>
       <a href="https://projeto-1-zeta-one.vercel.app/"><b>Ver site →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="https://projeto-2-eta-seven.vercel.app/"><img src="./assets/projects/viktor.webp" alt="Creative Portfolio" /></a>
-      <p><sub>DEMONSTRATIVO · PORTFÓLIO EXPERIMENTAL</sub><br /><b>Creative Portfolio</b></p>
+      <a href="https://projeto-2-eta-seven.vercel.app/"><img src="./assets/projects/viktor.webp" alt="Portfólio Criativo" /></a>
+      <p><sub>DEMONSTRATIVO · PORTFÓLIO EXPERIMENTAL</sub><br /><b>Portfólio Criativo</b></p>
       <p>Portfólio com foco em imagem, expressão visual e navegação com movimento.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>CSS Animations</code></p>
       <a href="https://projeto-2-eta-seven.vercel.app/"><b>Ver site →</b></a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <a href="https://joaoclayson0x.dev"><b>Ver todos os projetos no portfólio →</b></a>
+      <p><sub>joaoclayson0x.dev</sub></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Os repositórios dos projetos são privados — todos estão publicados e podem ser vistos ao vivo.</sub><br />
-  <a href="https://joaoclayson0x.dev"><b>Ver todos os projetos no portfólio →</b></a>
+  <sub>Os repositórios dos projetos são privados — todos estão publicados e podem ser vistos ao vivo.</sub>
 </p>
 
 <br />
