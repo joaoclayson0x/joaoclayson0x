@@ -72,7 +72,7 @@ const joao = {
     </td>
     <td width="50%" valign="top">
       <a href="https://projeto-3-weld.vercel.app/"><img src="./assets/projects/velorah.webp" alt="Velorah" /></a>
-      <p><sub>DEMONSTRATIVO · EXPERIÊNCIA DIGITAL</sub><br /><b>Velorah</b></p>
+      <p><sub>DEMONSTRATIVO · EXPERIÊNCIA DIGITAL</sub><br /><b>Experiência Visual de Marca</b></p>
       <p>Hero cinematográfico com vídeo em tela cheia, efeito <i>liquid glass</i> e tipografia editorial.</p>
       <p><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></p>
       <a href="https://projeto-3-weld.vercel.app/"><b>Ver site →</b></a>
@@ -81,14 +81,14 @@ const joao = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://projeto-1-zeta-one.vercel.app/"><img src="./assets/projects/prosthetics.webp" alt="Prosthetics Concept" /></a>
-      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Prosthetics Concept</b></p>
+      <p><sub>DEMONSTRATIVO · LANDING PAGE</sub><br /><b>Landing Page de Próteses</b></p>
       <p>Landing page conceitual sobre próteses, explorando apresentação de produto e composição.</p>
       <p><code>React</code> <code>Vite</code> <code>TypeScript</code></p>
       <a href="https://projeto-1-zeta-one.vercel.app/"><b>Ver site →</b></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://projeto-2-eta-seven.vercel.app/"><img src="./assets/projects/viktor.webp" alt="Creative Portfolio" /></a>
-      <p><sub>DEMONSTRATIVO · PORTFÓLIO EXPERIMENTAL</sub><br /><b>Creative Portfolio</b></p>
+      <p><sub>DEMONSTRATIVO · PORTFÓLIO EXPERIMENTAL</sub><br /><b>Portfólio Criativo</b></p>
       <p>Portfólio com foco em imagem, expressão visual e navegação com movimento.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>CSS Animations</code></p>
       <a href="https://projeto-2-eta-seven.vercel.app/"><b>Ver site →</b></a>
